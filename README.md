@@ -7,3 +7,6 @@ It then should report the installation status to a mock web API.
 ## Directions
 Steps through the 5 TODOs to complete the functionality and get the tests to pass.
 
+## My Results
+Got the tests to pass, stepped through and implemented the TODOS, looking forward to discussing the results!
+

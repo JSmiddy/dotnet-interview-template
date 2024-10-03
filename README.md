@@ -10,3 +10,9 @@ Steps through the 5 TODOs to complete the functionality and get the tests to pas
 ## My Results
 Got the tests to pass, stepped through and implemented the TODOS, looking forward to discussing the results!
 
+General Approach:
+- Keep code simple, readable, maintainable.
+- Abide by pre-existing coding conventions and standards where possible.
+- Consider the need for exception handling and fault tolerance in external calls.
+- For the service injection, I assumed a type of "Scoped" for each so as to not add Singleton/Transient limitations unnecessarily.
+
